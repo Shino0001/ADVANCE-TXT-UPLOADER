@@ -1,6 +1,3 @@
-# Don't Remove Credit Tg - @Tushar0125
-# Ask Doubt on telegram @Tushar0125
-
 from os import environ
 
 API_ID = int(environ.get("API_ID", "27049009")) #Replace with your api id
